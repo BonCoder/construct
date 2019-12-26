@@ -1,0 +1,13 @@
+<?php
+
+namespace DummyNamespace;
+
+use BobCoder\Construct\Foundation\Transform\TransformContract;
+
+class DummyClass implements TransformContract
+{
+    public function transform($attributes)
+    {
+        //
+    }
+}

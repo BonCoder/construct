@@ -1,0 +1,12 @@
+<?php
+
+namespace DummyNamespace;
+
+use BobCoder\Construct\Foundation\Service\Service;
+
+class DummyClass
+{
+    protected $repository;
+
+    //
+}
