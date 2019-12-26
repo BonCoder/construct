@@ -31,17 +31,6 @@
         "orchestra/database": "^3.5"
     },
 
-    "extra": {
-        "component": "package",
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        },
-        "laravel": {
-            "providers": [
-                "BobCoder\\construct\\ConstructServiceProvider"
-            ]
-        }
-    },
     "minimum-stability": "dev",
-    "version": "1.0.1"
+    "version": "v1.0.2"
 }
