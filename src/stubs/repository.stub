@@ -4,7 +4,7 @@ namespace DummyNamespace;
 
 use BobCoder\Construct\Foundation\Repository\Repository;
 
-class DummyClass
+class DummyClass extends Repository
 {
     protected $model;
 
